@@ -24,4 +24,4 @@ This game is especially suitable for players who like a combination of strategy 
 
 <br></br>
 <h1>下載-Download</h1>
-<a href="https://hk-tommy.itch.io/space-survival-battle-ii">Itch</a>
+<a href="https://github.com/HK-Tommy/Space-Survival-Battle-II/releases/download/v1.0.0/SpaceSurvivalBattle_v1.0.0_Setup_x64.exe">Download x64 for Windows</a>
